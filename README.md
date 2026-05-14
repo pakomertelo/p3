@@ -1,3 +1,3 @@
 # p3
 
-prueba 1 d
+prueba 1 de
